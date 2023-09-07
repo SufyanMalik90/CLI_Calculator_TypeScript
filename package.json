@@ -1,0 +1,22 @@
+{
+  "name": "@sufyan-malik/calculator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "calculator": "calculator.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sufyan malik",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.9"
+  }
+}
